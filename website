@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solana Memecoin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>🚀 Solana Memecoin</h1>
+</header>
+
+<section class="hero">
+    <h2>The Funniest Memecoin on Solana!</h2>
+    <p>Buy, sell, and laugh your way to the moon with the most hilarious memecoin on the Solana blockchain.</p>
+    <button class="cta-button">Get $MEME Now</button>
+</section>
+
+<section class="features">
+    <div class="feature">
+        <h3>🔥 Fast Transactions</h3>
+        <p>Enjoy lightning-fast and ultra-low fees with Solana's blockchain.</p>
+    </div>
+    <div class="feature">
+        <h3>🎉 Community-Driven</h3>
+        <p>Our memecoin is powered by an amazing and fun community.</p>
+    </div>
+    <div class="feature">
+        <h3>🌕 Moonshot Potential</h3>
+        <p>Hold tight, as $MEME skyrockets to the moon!</p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Solana Memecoin. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
